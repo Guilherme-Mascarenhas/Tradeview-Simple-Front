@@ -6,7 +6,7 @@
 
  **PROJETO ESTA SEPARADO FRONT / BACK**
 
--  **[tradeview-simple-back](https://github.com/nome_do_usuário/outro_repositorio)**
+-  **[tradeview-simple-back](https://github.com/Guilherme-Mascarenhas/Tradeview-Simple-Back)**
 
 Para a contrução dessa parte do projeto foi utilizado uma conexão WebSocket, onde diferente da HTTP convencional é bidirecional, ou seja, ambas as partes (cliente/servidor), podem mandar informações sem a necessidade de uma requisição. Apos a conexão ser estabelecida esse caminho fica livre para troca de informações.
 Nesse exemplo foi utilizado a Stream aberta da Binance para receber os indicadores das Criptomoedas da corretora em tempo real e com a ajuda do Apex Chats (biblioteca), criamos um grafico de velas em tempo real (atraso de segundos).
